@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/vitalichUA/copyrep/static/css/main.7acaea2f.css",
-    "main.js": "/vitalichUA/copyrep/static/js/main.07d3183d.js",
+    "main.css": "/vitalichUA/copyrep/static/css/main.c541eb03.css",
+    "main.js": "/vitalichUA/copyrep/static/js/main.23bb2e3c.js",
     "index.html": "/vitalichUA/copyrep/index.html",
-    "main.7acaea2f.css.map": "/vitalichUA/copyrep/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/vitalichUA/copyrep/static/js/main.07d3183d.js.map"
+    "main.c541eb03.css.map": "/vitalichUA/copyrep/static/css/main.c541eb03.css.map",
+    "main.23bb2e3c.js.map": "/vitalichUA/copyrep/static/js/main.23bb2e3c.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.c541eb03.css",
+    "static/js/main.23bb2e3c.js"
   ]
 }
